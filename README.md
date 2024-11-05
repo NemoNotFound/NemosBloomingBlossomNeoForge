@@ -1,25 +1,34 @@
+![Nemo's Blooming Blossom](https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/png/nemos-blooming-blossom.png?raw=true)
+<br><br>
 
-Installation information
-=======
+# Description
+Nemo's Blooming Blossom generates pink petals around cherry trees when <br>
+they grow and generates more pink petals, when using bone meal on grass. <br>
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+Also, it generates leaves around oak, birch & dark oak trees!
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+[![Join my Discord](https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/svg/join_discord_button.svg?raw=true)](https://discord.com/invite/yxs9dga)
+<br>
+<br>
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+I love to create mods for Minecraft and wish to live off it one day, so I hope you like what I do. <br>
+Either way feel free to give me your feedback and suggestions, either on my Discord or the [discussions](https://github.com/NemoNotFound/NemosCreatures/discussions/) :)
+<br><br>
+For more information check the [wiki](https://www.nemonotfound.com/minecraft-mods/nemos-blooming-blossom/wiki).
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+[![ko-fi donation](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nemonotfound)
+<br>
+<br>
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+# Downloads
+- [CurseForge](https://curseforge.com/minecraft/mc-mods/nemos-blooming-blossom)
+- [Modrinth](https://modrinth.com/mod/nemos-blooming-blossom)
+  <br>
+  <br>
+
+# Get a Minecraft Server
+Looking for a Minecraft Server? Check out [BisectHosting](https://bisecthosting.com/Nemo404)! <br>
+Use my code **Nemo404** to get a 25% discount on your first month with any of their gaming servers. <br><br>
+By using my code, you'll also be supporting my work as a Minecraft modder, helping me to pursue this passion full-time. Thank you!
+
+[**![BisectHosting Minecraft Server](https://www.bisecthosting.com/partners/custom-banners/e6d95b5e-b7fb-47eb-ad78-4dc6071a6171.png)**](https://bisecthosting.com/Nemo404)

@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "com.nemonotfound.nemosbloomingblossom.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"FlowerBlockMixin",
+		"GrassBlockMixin",
+		"WitherRoseBlockMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
